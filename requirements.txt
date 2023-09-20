@@ -1,0 +1,5 @@
+required modules
+
+sockets
+asyncio
+peewee
